@@ -56,6 +56,6 @@ Still learning a few things, personally.
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@TPriince](https://www.frontendmentor.io/profile/TPriince)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
