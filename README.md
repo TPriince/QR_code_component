@@ -40,5 +40,5 @@ Still learning a few things, personally.
 
 ## Author
 - Frontend Mentor - [@TPriince](https://www.frontendmentor.io/profile/TPriince)
-- Twitter - [@TPriince](https://www.twitter.com/TPriince)
+- Twitter - [@TPriincee](https://www.twitter.com/TPriincee)
 
